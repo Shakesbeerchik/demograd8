@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "autorisation.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -36,7 +36,9 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 37,
     "versionPublish": "4.10.15",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/the-fetus-in-the-womb-uterus-computer-128x128.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
